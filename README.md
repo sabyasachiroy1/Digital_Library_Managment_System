@@ -2,8 +2,11 @@
 it is a group project . 
 for more please check the document.
 ![image](https://github.com/sabyasachiroy1/LMS/assets/110336884/8068d282-29c7-494d-b3da-f635076f6576)
+
 ![image](https://github.com/sabyasachiroy1/LMS/assets/110336884/3b231d73-5b1e-4fb8-bcf0-4f02895d8205)
+
 ![image](https://github.com/sabyasachiroy1/LMS/assets/110336884/b2af2337-1b4f-4324-a319-7df1df8a69fe)
+<br>
 ![image](https://github.com/sabyasachiroy1/LMS/assets/110336884/9982179a-b3b3-43d7-8ebf-b4daff47127d)
 ![image](https://github.com/sabyasachiroy1/LMS/assets/110336884/d82fce87-6867-4711-8e90-5953b8e6c8a2)
 ![image](https://github.com/sabyasachiroy1/LMS/assets/110336884/edf0db7e-9185-4ff4-8274-6f8a9ae34594)
