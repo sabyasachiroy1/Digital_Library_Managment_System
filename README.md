@@ -35,6 +35,17 @@ for more please check the document.
 
 ![image](https://github.com/sabyasachiroy1/LMS/assets/110336884/1ac723d1-4b3b-4852-9cfb-73e915d861db)
 
+![image](https://github.com/sabyasachiroy1/Digital_Library_Managment_System/assets/110336884/aeea503a-52fb-47d9-af66-1e9949b1a194)
+
+![image](https://github.com/sabyasachiroy1/Digital_Library_Managment_System/assets/110336884/8aff41d6-f4a3-4dc2-a837-ec0da9445511)  Staff Login 
+
+![image](https://github.com/sabyasachiroy1/Digital_Library_Managment_System/assets/110336884/e82aa0c9-eb31-4dc0-8483-96ab6332cb95)
+
+![image](https://github.com/sabyasachiroy1/Digital_Library_Managment_System/assets/110336884/c173ca9c-ce8c-4237-86f4-b39248203094)
+
+
+
+
 
 
 
