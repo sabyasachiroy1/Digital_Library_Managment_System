@@ -1,0 +1,222 @@
+*{
+    margin: 0;
+    padding: 0;
+    cursor: pointer;
+}
+
+/* ---------------------------Home Screen ------------------------------------------------------------- */
+
+.headingcontainers {
+   background-color: rgb(9, 9, 58);
+   border: 2px solid white;
+    height: 60px;
+    padding-top: 8px;
+  width: 100vw;
+}
+.headingmains {
+    font-size: 25px;
+   
+}
+.homebuttons {
+    height: 25px;
+    width: 85px;
+    background-color: rgb(5, 5, 227);
+    color: white;
+    border-radius: 5px;
+    margin-right: 55px;
+  
+ 
+}
+#loginbutton {
+ background-color: red;
+
+}
+#signupbutton{
+    background-color: green;
+}
+.bodyimagesections {
+    height: fit-content;
+  
+}
+.footersections {
+    border: 1px solid black;
+    padding-left: 25px;
+    background-color: black;
+    color: white;
+}
+.homebuttonset {
+    color: rgb(242, 242, 242);
+}
+/*---------------------------------------------About----------------------------------------------  */
+.headingpointss{
+    border: 3px solid black;
+    height: 85vh;
+    margin:10px;
+}
+.headingofabouts {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.imageparts {
+    display: inline-block;
+   
+}
+.sectionsparts {
+    display: inline-block;
+   
+    height:85px;
+}
+/* ------------------------------------------signup section--------------------------------------------------------------------------------------- */
+.tableforinput {
+    height: 500px;
+    width: 85%;
+    margin-left:8%;
+    width: 80vw;
+}
+.headings {
+    background-color: rgb(0, 0, 0);
+    color: white;
+    text-align: center;
+}
+/* signup end */
+/* -----------------------------------------------------------------Login =---------------------------- */
+.wholecodes{
+    height: 90vh;
+    width: 95vw;
+    border: 1px solid black;
+    margin-left: 25px;
+    margin-top: 25px;
+    margin-right: 25px;
+    background-color: rgb(165, 174, 165);
+    position: sticky;
+  
+}
+.fieldsets{
+    background-color: white;
+    border: 1px solid black;
+    height:auto;
+    min-height: 60vh;
+    width: fit-content;
+    min-width: 45vw;
+    display:block;
+    box-sizing: border-box;
+   margin-left: 28%;
+   margin-top: 6%;
+   box-shadow: 10px 10px 10px 15px rgb(117, 106, 106);
+   
+}
+.bannerdiv{
+    border: 1px solid black;
+    background-color: rgb(5, 5, 50);
+    height:auto;
+    min-height: 35px;
+    width:auto;
+    
+}
+#bannerlogos{
+    text-align: center;
+ padding:10px;
+    color: white;
+    
+}
+#tableforloin{
+    width:55%;
+}
+.loginsets{
+    margin-top: 25px;
+    margin-left: 20%;
+}
+.loginasimages{
+    height: 40px;
+}
+.logininputs,select{
+   margin-left:  25px;
+   margin-top: 3px;
+   height:25px;
+   width:15vw;
+   font-size: medium;
+   font-weight:lighter;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   
+}
+
+#buttons{
+    width: fit-content;
+   font-size:medium;
+    min-width: 70px;
+    background-color: rgb(5, 5, 58);
+    color: white;
+    margin-top:10px;
+    border-radius: 5px;
+    
+}
+/* ----------------------------------------Admin Part------------------------------------------------------ */
+.adminbannerdashboard {
+    background-color:rgb(7, 7, 66);
+    color: white;
+    text-align: center;
+    height: 40px;
+    padding-top: 10px;
+}.sidebanners{
+    height:85vh;
+    width:125px;
+    background-color: rgb(7, 7, 66);
+   margin: 0px 0px 0px 1px;
+}
+a{
+    text-decoration: none;
+    color: rgb(241, 241, 241);
+}
+.admin_button,.admin_buttonone {
+    height: 29px;
+    width: 100%;
+    margin-top: 6px;
+    background-color:darkgreen;
+    color: white;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.admin_buttonone {
+margin-top: 12px;
+   
+}
+.logoutbuttonss {
+    position: absolute;
+    top: 10px;
+    right: 20px;
+    background-color: red;
+    color: white;
+    height: 35px;
+    width:80px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.imagedatas {
+   
+    position: absolute;
+    top: 55px;
+    right: 14px;
+}
+.userinformationsetsts {
+    position:absolute;
+    top:53px;
+    left: 250px;
+}
+.inputforuseage {
+    height: 5vh;
+  border-right: 1px solid black;
+  color: black;
+  font-size:larger;
+  padding-left: 25px;
+  outline: 1px solid white;
+   
+}
+/* -------------------------------->>>> */
+
+
+.backandhome {
+    position: absolute;
+    top: 10px;
+    right: 25px;
+}
